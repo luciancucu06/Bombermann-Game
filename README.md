@@ -64,7 +64,7 @@ Instalare si Rulare
 
 Clonati acest depozit sau descarcati fisierele sursa:
 
-git clone https://github.com/utilizator/bomberman-neon.git
+git clone https://github.com/luciancucu06/Bombermann-Game.git
 cd bomberman-neon
 
 
